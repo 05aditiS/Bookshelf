@@ -1,12 +1,47 @@
-# React + Vite
+# 📚 BookShelf – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**BookShelf** is a responsive and user-friendly **book rental platform frontend** built using **React.js**, **Vite**, and **Tailwind CSS**.  
+It allows users to explore books, manage their rentals, and navigate seamlessly through an elegant interface designed for performance and simplicity.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🧭 **Dynamic Navbar** with active route highlighting  
+- 📖 **Multiple Pages** – Home, Categories, Browse Books, My Shelf, and Profile  
+- 📱 **Fully Responsive Design** for mobile, tablet, and desktop  
+- ⚡ **Fast Build and Hot Reloading** with Vite  
+- 🎨 **Tailwind CSS Styling** for a clean, modern look  
+- 🧩 **Component-Based Architecture** for better scalability and maintenance  
+- 🔄 **React Router Integration** for smooth navigation  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Framework** | React.js (Vite) |
+| **Styling** | Tailwind CSS |
+| **Routing** | React Router DOM |
+| **Icons** | Lucide / Heroicons |
+| **Version Control** | Git & GitHub |
+
+---
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/bookshelf-frontend.git
+cd bookshelf-frontend
+
+ ### 1️⃣ Clone the Repository
+npm install
+
+ ### 3️⃣ Start the Development Server
+npm run dev
+
